@@ -1,5 +1,5 @@
 # Instacart Basket Analysis
-Instacart historical data is analyzed in this project to uncover more information about their sales patterns.
+This project delves into Instacart's historical data to reveal insights about consumer purchasing trends and the frequency of sales for different products.
 
 ## Objective
 The aim of the analysis is to extract insights for future sales and marketing strategies including answering the following key questions.
